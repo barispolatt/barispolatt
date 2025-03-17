@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">* 🧠  I'm learning SpringBoot<br>* 🚀  I'm currently working on [Youtube-Spotify Music List Converter](http://youtubespotifylistconverter.com)<br>* 🤝  I'm open to collaborating on projects that improves me on backend or DevOps.<br>* ⚡  I am also eager to work on a DevOps project to gain experience in K8s, Terraform, Docker, etc.</p>
+<p align="left">* 🧠  I'm learning SpringBoot<br>* 🚀  I'm currently working on Youtube-Spotify Music List Converter<br>* 🤝  I'm open to collaborating on projects that improves me on backend or DevOps.<br>* ⚡  I am also eager to work on a DevOps project to gain experience in K8s, Terraform, Docker, etc.</p>
 
 ###
 
@@ -92,26 +92,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/barispolatt/barispolatt/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=barispolatt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barispolatt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###

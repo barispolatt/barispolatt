@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Barış Polat and I'm a Software Engineer Candidate</h2>
+<h2 align="center">Hi 👋! My name is Barış Polat and I'm a Junior Software Engineer </h2>
 
 ###
 

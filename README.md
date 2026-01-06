@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Barış Polat and I'm a Junior Software Engineer </h2>
+<h2 align="center">Hi 👋! My name is Barış Polat and I'm a Software Engineer </h2>
 
 ###
 
-<p align="center">I've been coding for more than 5 years. I started with C, but I am improving myself by focusing on Backend Development and DevOps technologies.</p>
+<p align="center">I've been coding for more than 5 years. I started with C, but I am improving myself by focusing on Software Development and DevOps technologies.</p>
 
 ###
 

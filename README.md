@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">* 🧠  I'm learning SpringBoot<br>* 🚀  I'm currently working on creating my own VPN service<br>* 🤝  I'm open to collaborating on projects that improves me on backend or DevOps.<br>* ⚡  I am also eager to work on a DevOps project to gain experience in K8s, Terraform, Docker, etc.</p>
+<p align="left">* 🧠  I'm studying to get CKA certification<br>* 🚀  I'm currently working on creating my own VPN service<br>* 🤝  I'm open to collaborating on projects that improves me on backend or DevOps.<br>* ⚡  I am also eager to work on a DevOps project to gain experience in K8s, Terraform, Docker, etc.</p>
 
 ###
 
